@@ -18,6 +18,7 @@ PIXEL PLUS UI is based on the Pixel Experience. It has additional localised and 
 
 [CENTER]- [B][SIZE="3"]Kostya Maslennikov ( @kostyajrz )[/B]  -[B]Founder & Lead Developer[/B]
 - [B]Ricardo Pereira ( @nunocodex)[/B]        - Moderator & Developer
+- [B]Gagan Malvi (@thegaganmalvi)[/B] - A good boii
 - [B]Kostya Maslennikov ( @kostyajrz )[/B]  - UI/UX Developer[/SIZE] [/CENTER]
 
 [img]https://i.imgur.com/tSWWNnR.jpg[/img]
