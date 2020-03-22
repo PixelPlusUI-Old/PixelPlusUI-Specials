@@ -1,0 +1,149 @@
+[CENTER][img]https://i.imgur.com/TIgKV2M.png[/img]
+
+PIXEL PLUS UI is based on the Pixel Experience. It has additional localised and personalised functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users, and even prolonging support to devices that have been declared obsolete by OEMs. Our ROMs' source code is open source, secure, stable and outstanding. Your experience using PixelPlusUI will be butter smooth with added convenience and features. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android or even be one of our developers. Let's bring this project to greater heights!
+
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+
+[SIZE="3"]"This is a user-friendly thread, all your suggestions are important to us and will be taken into consideration."[/SIZE]
+
+[img]https://i.imgur.com/wtaq46a.jpg[/img]
+
+[SIZE="3"]PixelPlusUI is a beautiful Android ROM which focuses on performance and stability with many awesome features. The main aim of this rom is to give user a better experience without compromising quality of Android experience so that no one struggles in any kind of difficulties while using their device. Basically this UI is based on Pixel Experience so Huge thanks to them.[/SIZE]
+
+[img]https://i.imgur.com/0jVcR5o.jpg[/img]
+
+[CENTER]- [B][SIZE="3"]Kostya Maslennikov ( @kostyajrz )[/B]  -[B]Founder & Lead Developer[/B]
+- [B]Ricardo Pereira ( @nunocodex)[/B]        - Moderator & Developer
+- [B]Kostya Maslennikov ( @kostyajrz )[/B]  - UI/UX Developer[/SIZE] [/CENTER]
+
+[img]https://i.imgur.com/tSWWNnR.jpg[/img]
+
+[code]
+[B]Statusbar[/B]:
+Statusbar clock customizations
+Network Traffic Activity
+Hiding Statusbar on lockscreen
+VoLTE Icon customizations
+
+[B]Quick settings[/B]:
+Togglable blur behind QS
+Hide gradient behind QS
+New tiles
+OP Screen Recorder Tile
+
+[B]Themes[/B]:
+Awesome wallpaper
+Pixel Theme Picker
+Good minimalistic bootanimation
+
+[B]Hardware Buttons[/B]:
+Power Menu Customizations
+Disabled Annoying Emergency button in power menu
+
+[B]Navigation[/B]:
+Navigation bar layour invertion
+Togglable hide pill in full gesturl nav mode
+
+[B]Gestures[/B]:
+3-finger screenshot gesture
+
+[B]Screenshot[/B]:
+Extended screenshot feature from OOS
+
+[B]Settings[/B]:
+Added package name to installed app details
+Maintainer and device codename strings
+
+[B]Miscellaneous:[/B]
+Regular OTA Updates
+Moved battery icon to QS header
+
+[B]Much More As Source keeps updating So Hard to keep all updated.[/B]
+[/code]
+
+[img]https://i.imgur.com/RXFviOT.jpg[/img]
+
+[B][SIZE="4"][URL="https://sourceforge.net/projects/pixelplusui-project/files/"][COLOR="orange"]----------------SOURCEFORGE----------------[/COLOR] [/URL][/SIZE][/B]
+
+[B]NOTE: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine though.
+If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/B]
+
+[img]https://i.imgur.com/A641h0S.jpg[/img]
+
+[SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
+- Download the latest build
+- Reboot to recovery 
+- Make backup (Not Necessary)
+- Wipe System, Data, Cache, Dalvik,Vendor
+- Flash the latest build
+- Flash Magisk [OPTIONAL]
+- Reboot
+
+[SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
+- Download the latest build 
+- Reboot to recovery
+- Flash the latest build
+- Flash Magisk [OPTIONAL]
+- Wipe Cache
+- Reboot :p
+
+[B][SIZE="5"]BUGS ?[/SIZE][/B]
+
+NONE. YOU TELL ME :P
+
+As soon as the problem occurs, take a logcat! And send is to device specific grp of telegram and tag me.
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL]
+
+
+[img]https://i.imgur.com/OADyQ1J.jpg[/img]
+
+- Pixel Experience
+- LineageOS
+- AOSiP
+- Potato Open Source Project
+- Bootleggers ROM
+- CarbonROM
+- AOSP Extended
+- crDroid
+- Liquid Remix
+- Resurrection Remix
+- MSM Xtended
+- Havoc-OS
+- Syberia
+- Evolution-X
+- Extended-UI
+- SlimROM
+- ABC ROM
+
+[B][SIZE="5"]BUILD DETAILS[/SIZE][/B]
+
+- [b]Android OS version:[/b] 10.0
+- [b]Security patch:[/b] CURRENT SECURITY PATCH
+- [b][URL="  YOUR XDA PROFILE LINK   "]Build author/Device Maintainer[/URL][/b] 
+- [B]MAINTAINER Name[/B]: [B][URL=" YOUR TELEGRAM LINK "]   YOUR NAME  [/URL][/B]
+- [B]DEVICE[/B]: [B]   YOUR DEVICE NAME   [/B]
+- [B]DEVICE CODENAME[/B]: [B]   YOUR DEVICE CODE NAME   [/B]
+
+[B][SIZE="5"]ROM SOURCE AND LINKS[/SIZE][/B]
+
+- [B][URL="https://github.com/PixelPlusUI"]ROM Source Code[/URL][/B] 
+- [B][URL="  YOUR KERNEL SOURCE  "]Kernel Source[/URL][/B]
+- [B][URL="https://github.com/PixelPlusUI-Devices"]OFFICIAL DEVICES[/URL][/B]
+- [B][URL="https://pixelplusui.github.io/"]OFFICIAL WEBSITE[/URL][/B]: 
+
+[B][SIZE="5"]OFFICIAL CHANNEL AND SUPPORT GROUP[/SIZE][/B]
+
+[B][URL="https://t.me/ppuich"]OFFICIAL TELEGRAM CHANNEL[/URL][/B]
+[B][URL="https://t.me/ppuichat"]OFFICIAL TELEGRAM GROUP[/URL][/B]
+
+[B][SIZE="3"][COLOR="RED"]AS WE KNOW THAT THE BUILD IS FREE OF COST FOR YOU GUYS BUT BUILDING ROMs NEED SERVER SO WE HAVE TO PAY FOR IT EVERY MONTH 2$ / Rs.150 INR SO AS A STUDENT ITS DIFFICULT TO MANAGE IT. IT WOULD BE HELPFULL AND REALLY APPRICIATED IF YOU SUPPORT US
+
+PAYPAL/PAYTM/GPAY/UPI ID : [/COLOR][/SIZE][/B][/CENTER]
+
+[B]ROM OS Version:[/B] 10.x Ten
+[B]ROM Kernel:[/B] 4.x
+[B]Based On:[/B] AOSP
