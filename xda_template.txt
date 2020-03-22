@@ -1,6 +1,6 @@
 [CENTER][img]https://i.imgur.com/TIgKV2M.png[/img]
 
-PIXEL PLUS UI is based on the Pixel Experience. It has additional localised and personalised functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users, and even prolonging support to devices that have been declared obsolete by OEMs. Our ROMs' source code is open source, secure, stable and outstanding. Your experience using PixelPlusUI will be butter smooth with added convenience and features. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android or even be one of our developers. Let's bring this project to greater heights!
+PixelPlusUI is based off Pixel Experience ROM. It has additional localised and personalized functionality while preserving the stock Android look by adhering to Material Design guidelines. Unlike OEMs' slow and untimely updates, we closely follow Google to bring the latest updates to our users, and even prolonging support to devices that have been declared obsolete by OEMs. Our ROMs' source code is open source, secure, stable and outstanding. Your experience using PixelPlusUI will be butter smooth with added convenience and features. So do not hesitate anymore, join us now and start enjoying the beauty of stock Android or even be one of our developers. Let's bring this project to greater heights!
 
 [CODE]
  * Your warranty is now void.
@@ -16,10 +16,9 @@ PIXEL PLUS UI is based on the Pixel Experience. It has additional localised and 
 
 [img]https://i.imgur.com/0jVcR5o.jpg[/img]
 
-[CENTER]- [B][SIZE="3"]Kostya Maslennikov ( @kostyajrz )[/B]  -[B]Founder & Lead Developer[/B]
-- [B]Ricardo Pereira ( @nunocodex)[/B]        - Moderator & Developer
-- [B]Gagan Malvi (@thegaganmalvi)[/B] - A good boii
-- [B]Kostya Maslennikov ( @kostyajrz )[/B]  - UI/UX Developer[/SIZE] [/CENTER]
+[CENTER]- [B][SIZE="3"]Kostya Maslennikov (@kostyajrz)[/B]  -[B]Founder & Lead Developer[/B]
+- [B]Ricardo Pereira (@nunocodex)[/B]        - Moderator & Developer
+- [B]Gagan Malvi (@thegaganmalvi)[/B] - Developer& Support Team
 
 [img]https://i.imgur.com/tSWWNnR.jpg[/img]
 
@@ -68,17 +67,17 @@ Moved battery icon to QS header
 
 [img]https://i.imgur.com/RXFviOT.jpg[/img]
 
-[B][SIZE="4"][URL="https://sourceforge.net/projects/pixelplusui-project/files/"][COLOR="orange"]----------------SOURCEFORGE----------------[/COLOR] [/URL][/SIZE][/B]
+[B][SIZE="4"][URL="https://sourceforge.net/projects/pixelplusui-project/files/"][COLOR="orange"][CENTER]SourceForge![/CENTER][/COLOR] [/URL][/SIZE][/B]
 
-[B]NOTE: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine though.
+[B]NOTE: It is STRONGLY recommended to fully wipe your device before flashing and please avoid restoring system apps and system data with Titanium Backup (or with any backup/restore app) as this can cause stability issues that are very hard to debug, restoring regular apps is fine.
 If you believe you know what you're doing - then fine, go ahead, but please don't complain if you experience any strange behavior.[/B]
 
 [img]https://i.imgur.com/A641h0S.jpg[/img]
 
 [SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
 - Download the latest build
-- Reboot to recovery 
-- Make backup (Not Necessary)
+- Reboot to recovery.
+- Take a backup.
 - Wipe System, Data, Cache, Dalvik,Vendor
 - Flash the latest build
 - Flash Magisk [OPTIONAL]
@@ -90,13 +89,17 @@ If you believe you know what you're doing - then fine, go ahead, but please don'
 - Flash the latest build
 - Flash Magisk [OPTIONAL]
 - Wipe Cache
-- Reboot :p
+- Reboot :P
 
-[B][SIZE="5"]BUGS ?[/SIZE][/B]
+[B][SIZE="5"]What works?[/SIZE][/B]
 
-NONE. YOU TELL ME :P
+Almost everything
 
-As soon as the problem occurs, take a logcat! And send is to device specific grp of telegram and tag me.
+[B][SIZE="5"]What doesn't work?[/SIZE][/B]
+
+You tell me! :P
+
+As soon as the problem occurs, take a logcat and please inform us via Telegram or XDA.
 [URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL]
 
 
@@ -120,7 +123,7 @@ As soon as the problem occurs, take a logcat! And send is to device specific grp
 - SlimROM
 - ABC ROM
 
-[B][SIZE="5"]BUILD DETAILS[/SIZE][/B]
+[B][SIZE="5"]Build Details[/SIZE][/B]
 
 - [b]Android OS version:[/b] 10.0
 - [b]Security patch:[/b] CURRENT SECURITY PATCH
@@ -129,22 +132,22 @@ As soon as the problem occurs, take a logcat! And send is to device specific grp
 - [B]DEVICE[/B]: [B]   YOUR DEVICE NAME   [/B]
 - [B]DEVICE CODENAME[/B]: [B]   YOUR DEVICE CODE NAME   [/B]
 
-[B][SIZE="5"]ROM SOURCE AND LINKS[/SIZE][/B]
+[B][SIZE="5"]Sources and Documentation[/SIZE][/B]
 
 - [B][URL="https://github.com/PixelPlusUI"]ROM Source Code[/URL][/B] 
 - [B][URL="  YOUR KERNEL SOURCE  "]Kernel Source[/URL][/B]
 - [B][URL="https://github.com/PixelPlusUI-Devices"]OFFICIAL DEVICES[/URL][/B]
 - [B][URL="https://pixelplusui.github.io/"]OFFICIAL WEBSITE[/URL][/B]: 
 
-[B][SIZE="5"]OFFICIAL CHANNEL AND SUPPORT GROUP[/SIZE][/B]
+[B][SIZE="5"]Official Channel & Support Group[/SIZE][/B]
 
 [B][URL="https://t.me/ppuich"]OFFICIAL TELEGRAM CHANNEL[/URL][/B]
 [B][URL="https://t.me/ppuichat"]OFFICIAL TELEGRAM GROUP[/URL][/B]
 
-[B][SIZE="3"][COLOR="RED"]AS WE KNOW THAT THE BUILD IS FREE OF COST FOR YOU GUYS BUT BUILDING ROMs NEED SERVER SO WE HAVE TO PAY FOR IT EVERY MONTH 2$ / Rs.150 INR SO AS A STUDENT ITS DIFFICULT TO MANAGE IT. IT WOULD BE HELPFULL AND REALLY APPRICIATED IF YOU SUPPORT US
+[B][SIZE="3"][COLOR="RED"]AS WE KNOW THAT THE BUILD IS FREE OF COST FOR YOU GUYS BUT BUILDING ROMs NEEDS SERVER INFRASTRUCTURE, SO WE HAVE TO PAY FOR IT EVERY MONTH, 2$ / Rs.150 INR SO AS A STUDENT ITS DIFFICULT TO MANAGE IT. IT WOULD BE HELPFUL AND IT WOULD BE REALLY APPRECIATED IF YOU SUPPORT US.
 
 PAYPAL/PAYTM/GPAY/UPI ID : [/COLOR][/SIZE][/B][/CENTER]
 
-[B]ROM OS Version:[/B] 10.x Ten
-[B]ROM Kernel:[/B] 4.x
+[B]ROM OS Version:[/B] 10.x
+[B]ROM Kernel:[/B] [Your Kernel Version]
 [B]Based On:[/B] AOSP
