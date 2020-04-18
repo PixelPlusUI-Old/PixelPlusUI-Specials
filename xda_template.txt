@@ -17,8 +17,7 @@ PixelPlusUI is based off Pixel Experience ROM. It has additional localised and p
 [img]https://i.imgur.com/0jVcR5o.jpg[/img]
 
 [CENTER]- [B][SIZE="3"]Kostya Maslennikov (@kostyajrz)[/B]  -[B]Founder & Lead Developer[/B]
-- [B]Ricardo Pereira (@nunocodex)[/B]        - Moderator & Developer
-- [B]Gagan Malvi (@thegaganmalvi)[/B] - Developer& Support Team
+- [B]Gagan Malvi (@thegaganmalvi)[/B] - Developer & Support Team
 
 [img]https://i.imgur.com/tSWWNnR.jpg[/img]
 
