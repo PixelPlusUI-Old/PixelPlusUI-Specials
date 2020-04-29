@@ -27,15 +27,19 @@ Statusbar clock customizations
 Network Traffic Activity
 Hiding Statusbar on lockscreen
 VoLTE Icon customizations
+Implement R style notification section headers
+Double tap to sleep on statusbar And Lockscreen
 
 [B]Quick settings[/B]:
 Togglable blur behind QS
 Hide gradient behind QS
 New tiles
 OP Screen Recorder Tile
+Require unlocking to use some QS tiles
+WIFI/NFC, Mobile Data, Bluetooth Panel instead of full Settings
 
 [B]Themes[/B]:
-Awesome wallpaper
+PixelPlusUI Paper App
 Pixel Theme Picker
 Good minimalistic bootanimation
 
@@ -50,16 +54,26 @@ Togglable hide pill in full gesturl nav mode
 [B]Gestures[/B]:
 3-finger screenshot gesture
 
+[B]Security[/B]
+Added FaceUnlock For OFFCIAL 
+
 [B]Screenshot[/B]:
-Extended screenshot feature from OOS
+Long screenshot implementation from Asus
+Oneplus ScreenRecorder
+Toggle to disable of screenshot shutter sound
 
 [B]Settings[/B]:
 Added package name to installed app details
 Maintainer and device codename strings
 
+[B]Extra[/B]
+Incall vibration options 
+support for internal audio recording
+
 [B]Miscellaneous:[/B]
 Regular OTA Updates
 Moved battery icon to QS header
+Russian, Ukrainian, French, etc translations
 
 [B]Much More As Source keeps updating So Hard to keep all updated.[/B]
 [/code]
